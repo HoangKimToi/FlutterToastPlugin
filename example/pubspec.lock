@@ -74,7 +74,7 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_toast:
+  flutter_toast_toihk:
     dependency: "direct main"
     description:
       path: ".."

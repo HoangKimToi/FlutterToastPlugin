@@ -1,8 +1,7 @@
-name: flutter_toast
+name: flutter_toast_toihk
 description: A new Flutter project.
 version: 0.0.1
-authors: ToiHK
-homepage:
+homepage: https://github.com/HoangKimToi/FlutterToastPlugin
 
 environment:
   sdk: ">=2.15.1 <3.0.0"

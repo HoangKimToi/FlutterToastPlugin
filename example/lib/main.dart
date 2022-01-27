@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'dart:async';
 
 import 'package:flutter/services.dart';
-import 'package:flutter_toast/flutter_toast.dart';
+import 'package:flutter_toast_toihk/flutter_toast_toihk.dart';
 
 void main() {
   runApp(const MyApp());
